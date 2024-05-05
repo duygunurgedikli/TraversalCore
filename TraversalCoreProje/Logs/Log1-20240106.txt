@@ -1,0 +1,5 @@
+2024-01-06T22:41:47.5150005+03:00  [INF] Now listening on: "https://localhost:7160" (d826f4b8)
+2024-01-06T22:41:47.5190424+03:00  [INF] Now listening on: "http://localhost:5152" (d826f4b8)
+2024-01-06T22:41:47.5229280+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-01-06T22:41:47.5230289+03:00  [INF] Hosting environment: "Development" (c3307c92)
+2024-01-06T22:41:47.5230599+03:00  [INF] Content root path: "C:\Users\USER\source\repos\TraversalCoreProje\TraversalCoreProje" (b5d60022)

@@ -1,0 +1,6 @@
+2023-08-21T02:41:23.7179712+03:00 0HMT1N64KEJ32:00000001 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. (5302a7e1)
+2023-08-21T23:41:15.3479956+03:00  [INF] Now listening on: "https://localhost:7160" (d826f4b8)
+2023-08-21T23:41:15.3509279+03:00  [INF] Now listening on: "http://localhost:5152" (d826f4b8)
+2023-08-21T23:41:15.3534120+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-08-21T23:41:15.3534818+03:00  [INF] Hosting environment: "Development" (c3307c92)
+2023-08-21T23:41:15.3535041+03:00  [INF] Content root path: "C:\Users\USER\source\repos\TraversalCoreProje\TraversalCoreProje" (b5d60022)
